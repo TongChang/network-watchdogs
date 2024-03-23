@@ -1,2 +1,2 @@
-./logs/*
-!./logs/gitgeep
+/logs/*
+!/logs/.gitgeep
